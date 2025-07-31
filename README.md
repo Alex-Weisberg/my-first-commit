@@ -1,2 +1,3 @@
-# my-first-commit
-My first GitHub repository - learning version control and open source contribution workflows
+   # My First Repository
+   
+   This is my test repository for learning GitHub!
